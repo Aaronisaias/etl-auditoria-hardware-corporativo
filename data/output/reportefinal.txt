@@ -1,0 +1,13 @@
+
+    === Reporte Final ===
+    Fecha:<class 'datetime.datetime'>
+    Archivo Original:desafio_hardware_corporativo.csv
+    Archivo Normalizado:datosnormalizados.csv
+    Cantidad de Registros:61
+    Cantidad de Filas Eliminadas:154
+    Cantidad de Columnas:9
+    Cantidad de Filas:61
+    Estado:Completado    
+    === Reporte Finalizado ===
+    
+Se encontraron errores:

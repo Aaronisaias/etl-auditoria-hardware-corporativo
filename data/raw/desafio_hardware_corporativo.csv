@@ -1,0 +1,171 @@
+ID_Transaccion,Sucursal_ID,Nombre_Sucursal,Tipo_Equipo,Precio_Unitario,Unidades_Vendidas,Metodo_Pago,Fecha_Factura,Descuento_Aplicado
+4001,10, Sucursal Centro ,Switch Core,,2,efectivo,,0.0
+4002,10,  SUCURSAL NORTE ,Switch Core,$500000.0,,Tarjeta Corporativa,Fecha_Corrupta,0.0
+4003,10,SUCURSAL ESTE,servidor blade,$500000.0,4,tarjeta corporativa,2026-05-15,
+4004,10,,Servidor Blade,$ 15000.99,10,Tarjeta Corporativa,,0.15
+4005,30, Sucursal Centro ,servidor blade, 450.0 ,,Tarjeta Corporativa,,0.1
+4006,40,sucursal centro,servidor blade,89.0,,Efectivo,,
+4007,20,,servidor blade,89.0,3,tarjeta corporativa,2026-05-01,-0.2
+4008,30, Sucursal Centro ,servidor blade,-200.0,2,,,0.0
+4009,30,sucursal centro,Notebook Enterprise, 450.0 ,,Efectivo,,0.05
+4010,30,sucursal centro,Notebook Enterprise, 450.0 ,5000,Tarjeta Corporativa,15-05-2026,0.1
+4011,10,,notebook enterprise,89.0,,Transferencia Bancaria,Fecha_Corrupta,0.1
+4012,40,  SUCURSAL NORTE ,servidor blade,"$1,200.50",1,transferencia bancaria,,0.15
+4013,20,sucursal sur,Switch Core,89.0,10,Efectivo,,1.5
+4014,40,Sucursal Oeste,Switch Core,$ 15000.99,10,Transferencia Bancaria,15-05-2026,0.0
+4015,10,SUCURSAL NORTE,workstation pro,,-5,,Fecha_Corrupta,0.15
+4016,30,sucursal centro,servidor blade,$500000.0,10,Transferencia Bancaria,,1.5
+4017,20,sucursal sur,notebook enterprise,"$1,200.50",,Tarjeta Corporativa,01/05/2026,
+4018,10,Sucursal Oeste,servidor blade,-200.0,5000,efectivo,15-05-2026,0.1
+4019,10,SUCURSAL ESTE,Notebook Enterprise,-200.0,2,Tarjeta Corporativa,01/05/2026,0.15
+4020,10,SUCURSAL ESTE,,$ 15000.99,-5,Tarjeta Corporativa,15-05-2026,0.0
+4021,30,sucursal centro,workstation pro,$500000.0,,Transferencia Bancaria,2026-05-01,1.5
+4022,30,SUCURSAL ESTE,workstation pro,"$1,200.50",1,efectivo,2026-05-01,0.0
+4023,20,sucursal centro,Notebook Enterprise,,4,Tarjeta Corporativa,2026-05-15,
+4024,30,sucursal sur,Notebook Enterprise,-200.0,2,Efectivo,Fecha_Corrupta,0.0
+4025,10,,Servidor Blade,,-5,transferencia bancaria,2026-05-15,0.0
+4026,20,,notebook enterprise,-200.0,5000,Tarjeta Corporativa,2026-05-01,1.5
+4027,10,  SUCURSAL NORTE ,workstation pro,-200.0,4,efectivo,01/05/2026,1.5
+4028,30,sucursal sur,workstation pro,-200.0,-5,efectivo,01/05/2026,0.1
+4029,30,Sucursal Oeste,,,10,Transferencia Bancaria,,
+4030,10, Sucursal Centro ,workstation pro,$500000.0,-5,Tarjeta Corporativa,2026-05-15,0.15
+4031,20,SUCURSAL ESTE,workstation pro,89.0,3,tarjeta corporativa,2026-05-15,0.0
+4032,20,  SUCURSAL NORTE ,workstation pro,$ 15000.99,-5,transferencia bancaria,2026-05-01,1.5
+4033,30,  SUCURSAL NORTE ,notebook enterprise,-200.0,1,efectivo,2026-05-15,1.5
+4034,40, Sucursal Centro ,,$500000.0,5000,transferencia bancaria,15-05-2026,
+4035,10,SUCURSAL ESTE,Servidor Blade,89.0,-5,transferencia bancaria,15-05-2026,
+4036,30,SUCURSAL NORTE,Servidor Blade,89.0,-5,transferencia bancaria,15-05-2026,0.1
+4037,20,SUCURSAL ESTE,workstation pro,89.0,1,tarjeta corporativa,,
+4038,30,sucursal sur,notebook enterprise,"$1,200.50",4,tarjeta corporativa,01/05/2026,-0.2
+4039,40,,servidor blade,$ 15000.99,4,Efectivo,15-05-2026,1.5
+4040,30,SUCURSAL ESTE,Workstation Pro,"$1,200.50",2,Tarjeta Corporativa,Fecha_Corrupta,1.5
+4041,10,sucursal sur,Notebook Enterprise,89.0,4,Efectivo,2026-05-01,1.5
+4042,40,sucursal sur,servidor blade,-200.0,4,Tarjeta Corporativa,15-05-2026,0.05
+4043,20,SUCURSAL NORTE,Workstation Pro, 450.0 ,1,,01/05/2026,1.5
+4044,40,SUCURSAL NORTE,workstation pro,$500000.0,1,Efectivo,Fecha_Corrupta,0.05
+4045,20,SUCURSAL ESTE,notebook enterprise,"$1,200.50",3,efectivo,2026-05-01,0.1
+4046,30, Sucursal Centro ,, 450.0 ,10,Transferencia Bancaria,01/05/2026,-0.2
+4047,40,sucursal centro,Notebook Enterprise,$500000.0,1,efectivo,2026-05-01,0.0
+4048,20,,Notebook Enterprise,$ 15000.99,,transferencia bancaria,Fecha_Corrupta,0.05
+4049,30,Sucursal Oeste,servidor blade, 450.0 ,3,Efectivo,2026-05-01,-0.2
+4050,40,sucursal sur,servidor blade,"$1,200.50",10,Efectivo,01/05/2026,0.15
+4051,10, Sucursal Centro ,Switch Core,$500000.0,4,efectivo,2026-05-01,0.15
+4052,20,sucursal sur,servidor blade, 450.0 ,10,efectivo,2026-05-15,0.1
+4053,10,SUCURSAL ESTE,Switch Core,-200.0,5000,Transferencia Bancaria,Fecha_Corrupta,
+4054,20,sucursal centro,Servidor Blade,$ 15000.99,10,,15-05-2026,0.0
+4055,30,sucursal sur,servidor blade,$500000.0,5000,Efectivo,15-05-2026,0.0
+4056,40,sucursal centro,notebook enterprise,$500000.0,5000,efectivo,2026-05-15,0.05
+4057,40,sucursal centro,Switch Core, 450.0 ,4,tarjeta corporativa,15-05-2026,0.15
+4058,20,sucursal sur,,89.0,4,Efectivo,2026-05-15,
+4059,40, Sucursal Centro ,workstation pro,$ 15000.99,2,transferencia bancaria,15-05-2026,
+4060,10,,workstation pro,-200.0,10,Tarjeta Corporativa,01/05/2026,1.5
+4061,40,Sucursal Oeste,Switch Core,"$1,200.50",3,Tarjeta Corporativa,2026-05-15,0.0
+4062,40,sucursal sur,servidor blade,$ 15000.99,1,tarjeta corporativa,2026-05-15,
+4063,40,sucursal centro,,$ 15000.99,-5,Tarjeta Corporativa,2026-05-15,1.5
+4064,20,Sucursal Oeste,notebook enterprise,,3,Transferencia Bancaria,01/05/2026,0.0
+4065,30,  SUCURSAL NORTE ,workstation pro,,4,transferencia bancaria,2026-05-15,1.5
+4066,10,Sucursal Oeste,Notebook Enterprise,"$1,200.50",4,efectivo,Fecha_Corrupta,0.05
+4067,30,sucursal sur,Notebook Enterprise,$ 15000.99,10,Transferencia Bancaria,Fecha_Corrupta,0.15
+4068,30, Sucursal Centro ,workstation pro,89.0,3,Tarjeta Corporativa,,
+4069,20,SUCURSAL ESTE,Servidor Blade,-200.0,2,Tarjeta Corporativa,2026-05-01,1.5
+4070,40, Sucursal Centro ,notebook enterprise,"$1,200.50",10,efectivo,2026-05-01,-0.2
+4071,30,sucursal centro,Notebook Enterprise, 450.0 ,10,Transferencia Bancaria,Fecha_Corrupta,0.1
+4072,20,sucursal sur,Notebook Enterprise,$500000.0,4,Transferencia Bancaria,2026-05-15,0.15
+4073,40,sucursal sur,Servidor Blade,,1,efectivo,,0.1
+4074,10, Sucursal Centro ,Notebook Enterprise,"$1,200.50",1,Tarjeta Corporativa,01/05/2026,
+4075,40,SUCURSAL NORTE,Switch Core,"$1,200.50",5000,Transferencia Bancaria,2026-05-01,0.1
+4076,10,sucursal sur,notebook enterprise,$ 15000.99,5000,Efectivo,01/05/2026,0.15
+4077,20,SUCURSAL NORTE,Notebook Enterprise,$ 15000.99,-5,efectivo,15-05-2026,1.5
+4078,20,,Workstation Pro, 450.0 ,2,tarjeta corporativa,15-05-2026,0.0
+4079,10,Sucursal Oeste,Notebook Enterprise,,2,Transferencia Bancaria,2026-05-15,1.5
+4080,40, Sucursal Centro ,workstation pro,-200.0,3,Transferencia Bancaria,Fecha_Corrupta,-0.2
+4081,10,  SUCURSAL NORTE ,Workstation Pro,"$1,200.50",1,tarjeta corporativa,2026-05-01,1.5
+4082,20,  SUCURSAL NORTE ,notebook enterprise,-200.0,1,Transferencia Bancaria,2026-05-15,-0.2
+4083,20,SUCURSAL NORTE,Notebook Enterprise,$ 15000.99,,efectivo,01/05/2026,-0.2
+4084,20,sucursal centro,Switch Core,$ 15000.99,2,Transferencia Bancaria,2026-05-15,1.5
+4085,20,SUCURSAL ESTE,Servidor Blade, 450.0 ,5000,Tarjeta Corporativa,Fecha_Corrupta,0.05
+4086,10,,servidor blade,,2,transferencia bancaria,,
+4087,20,  SUCURSAL NORTE ,workstation pro,$ 15000.99,3,Tarjeta Corporativa,Fecha_Corrupta,
+4088,10,sucursal centro,Switch Core,,2,Efectivo,Fecha_Corrupta,-0.2
+4089,10,sucursal sur,Notebook Enterprise,$ 15000.99,10,transferencia bancaria,2026-05-01,0.1
+4090,40,SUCURSAL NORTE,notebook enterprise,89.0,5000,tarjeta corporativa,Fecha_Corrupta,-0.2
+4091,30,SUCURSAL ESTE,notebook enterprise,-200.0,1,transferencia bancaria,,-0.2
+4092,30,sucursal sur,notebook enterprise, 450.0 ,2,Transferencia Bancaria,2026-05-01,0.05
+4093,40,sucursal centro,Switch Core, 450.0 ,2,Transferencia Bancaria,,0.15
+4094,30,,Servidor Blade,-200.0,3,transferencia bancaria,15-05-2026,0.1
+4095,20,SUCURSAL ESTE,notebook enterprise,,4,transferencia bancaria,Fecha_Corrupta,0.05
+4096,40,SUCURSAL NORTE,,,3,,,1.5
+4097,30,,Servidor Blade,$ 15000.99,2,efectivo,2026-05-01,
+4098,30,sucursal sur,notebook enterprise,"$1,200.50",3,Tarjeta Corporativa,2026-05-15,0.15
+4099,40,,Servidor Blade,$500000.0,4,Efectivo,2026-05-15,0.15
+4100,10,SUCURSAL ESTE,,$500000.0,3,Transferencia Bancaria,01/05/2026,0.05
+4101,30, Sucursal Centro ,, 450.0 ,4,tarjeta corporativa,2026-05-15,
+4102,30,SUCURSAL NORTE,Workstation Pro,,4,efectivo,Fecha_Corrupta,0.1
+4103,40, Sucursal Centro ,Notebook Enterprise,$ 15000.99,10,Efectivo,Fecha_Corrupta,
+4104,30, Sucursal Centro ,servidor blade, 450.0 ,5000,transferencia bancaria,01/05/2026,0.1
+4105,30,SUCURSAL NORTE,workstation pro,,4,,01/05/2026,0.15
+4106,10, Sucursal Centro ,,$ 15000.99,10,transferencia bancaria,2026-05-15,0.1
+4107,10,SUCURSAL NORTE,Workstation Pro,89.0,4,transferencia bancaria,15-05-2026,1.5
+4108,20, Sucursal Centro ,workstation pro,89.0,3,,,0.1
+4109,20,SUCURSAL NORTE,Servidor Blade,$500000.0,-5,efectivo,01/05/2026,0.0
+4110,40,,Switch Core,"$1,200.50",4,Transferencia Bancaria,Fecha_Corrupta,0.1
+4111,40, Sucursal Centro ,notebook enterprise,-200.0,1,tarjeta corporativa,01/05/2026,0.15
+4112,10,sucursal centro,,"$1,200.50",5000,Transferencia Bancaria,15-05-2026,-0.2
+4113,20,Sucursal Oeste,, 450.0 ,10,efectivo,Fecha_Corrupta,0.15
+4114,30,sucursal centro,Workstation Pro, 450.0 ,4,Efectivo,2026-05-01,
+4115,40,Sucursal Oeste,Notebook Enterprise,,5000,,2026-05-01,0.0
+4116,10,sucursal centro,Notebook Enterprise,$ 15000.99,-5,tarjeta corporativa,2026-05-01,0.15
+4117,20, Sucursal Centro ,servidor blade,,3,tarjeta corporativa,Fecha_Corrupta,0.1
+4118,20,,Workstation Pro,-200.0,1,tarjeta corporativa,,0.1
+4119,20,sucursal sur,Switch Core,,5000,efectivo,Fecha_Corrupta,0.15
+4120,10,SUCURSAL ESTE,Notebook Enterprise,$ 15000.99,10,efectivo,Fecha_Corrupta,0.15
+4121,20,sucursal sur,Servidor Blade,,-5,tarjeta corporativa,15-05-2026,1.5
+4122,20,SUCURSAL ESTE,Servidor Blade, 450.0 ,2,transferencia bancaria,2026-05-15,0.15
+4123,10,  SUCURSAL NORTE ,servidor blade,89.0,2,tarjeta corporativa,01/05/2026,1.5
+4124,10,SUCURSAL NORTE,Servidor Blade,"$1,200.50",4,Efectivo,01/05/2026,0.15
+4125,30,SUCURSAL NORTE,Servidor Blade,89.0,,transferencia bancaria,Fecha_Corrupta,
+4126,20,SUCURSAL NORTE,Switch Core,-200.0,4,Efectivo,01/05/2026,0.0
+4127,20,sucursal sur,notebook enterprise,89.0,-5,,2026-05-01,1.5
+4128,30,Sucursal Oeste,,$500000.0,-5,Transferencia Bancaria,15-05-2026,0.05
+4129,20,Sucursal Oeste,Switch Core,,1,Transferencia Bancaria,01/05/2026,1.5
+4130,10,,Servidor Blade,$ 15000.99,,Efectivo,15-05-2026,0.05
+4131,30,sucursal sur,Servidor Blade,-200.0,,,Fecha_Corrupta,
+4132,40,,notebook enterprise,"$1,200.50",-5,Efectivo,01/05/2026,
+4133,40,SUCURSAL ESTE,Notebook Enterprise,$ 15000.99,-5,Tarjeta Corporativa,01/05/2026,
+4134,20,sucursal centro,,-200.0,-5,transferencia bancaria,2026-05-01,-0.2
+4135,30,  SUCURSAL NORTE ,,89.0,2,tarjeta corporativa,Fecha_Corrupta,
+4136,30,Sucursal Oeste,,,-5,,Fecha_Corrupta,0.1
+4137,10,SUCURSAL ESTE,Notebook Enterprise,-200.0,-5,tarjeta corporativa,,-0.2
+4138,40,,workstation pro,-200.0,2,,01/05/2026,-0.2
+4139,40,sucursal centro,Switch Core,-200.0,2,,15-05-2026,1.5
+4140,40,Sucursal Oeste,Servidor Blade,,2,Efectivo,2026-05-01,1.5
+4141,40,SUCURSAL NORTE,,,4,transferencia bancaria,01/05/2026,1.5
+4142,10,,Switch Core,"$1,200.50",2,transferencia bancaria,15-05-2026,1.5
+4143,40, Sucursal Centro ,workstation pro, 450.0 ,5000,tarjeta corporativa,2026-05-01,-0.2
+4144,30,sucursal sur,Notebook Enterprise,$ 15000.99,10,tarjeta corporativa,15-05-2026,0.05
+4145,20, Sucursal Centro ,Notebook Enterprise,89.0,5000,Transferencia Bancaria,15-05-2026,1.5
+4146,10,Sucursal Oeste,workstation pro,-200.0,,efectivo,,0.0
+4147,30,SUCURSAL ESTE,servidor blade,-200.0,2,,2026-05-15,
+4148,20,SUCURSAL NORTE,Notebook Enterprise,"$1,200.50",2,Tarjeta Corporativa,15-05-2026,0.1
+4149,10,Sucursal Oeste,servidor blade, 450.0 ,-5,Tarjeta Corporativa,15-05-2026,0.05
+4150,30,sucursal sur,workstation pro, 450.0 ,4,Efectivo,,0.15
+4001,10, Sucursal Centro ,Switch Core,,2,efectivo,,0.0
+4002,10,  SUCURSAL NORTE ,Switch Core,$500000.0,,Tarjeta Corporativa,Fecha_Corrupta,0.0
+4003,10,SUCURSAL ESTE,servidor blade,$500000.0,4,tarjeta corporativa,2026-05-15,
+4004,10,,Servidor Blade,$ 15000.99,10,Tarjeta Corporativa,,0.15
+4005,30, Sucursal Centro ,servidor blade, 450.0 ,,Tarjeta Corporativa,,0.1
+4006,40,sucursal centro,servidor blade,89.0,,Efectivo,,
+4007,20,,servidor blade,89.0,3,tarjeta corporativa,2026-05-01,-0.2
+4008,30, Sucursal Centro ,servidor blade,-200.0,2,,,0.0
+4009,30,sucursal centro,Notebook Enterprise, 450.0 ,,Efectivo,,0.05
+4010,30,sucursal centro,Notebook Enterprise, 450.0 ,5000,Tarjeta Corporativa,15-05-2026,0.1
+4011,10,,notebook enterprise,89.0,,Transferencia Bancaria,Fecha_Corrupta,0.1
+4012,40,  SUCURSAL NORTE ,servidor blade,"$1,200.50",1,transferencia bancaria,,0.15
+4013,20,sucursal sur,Switch Core,89.0,10,Efectivo,,1.5
+4014,40,Sucursal Oeste,Switch Core,$ 15000.99,10,Transferencia Bancaria,15-05-2026,0.0
+4015,10,SUCURSAL NORTE,workstation pro,,-5,,Fecha_Corrupta,0.15
+4016,30,sucursal centro,servidor blade,$500000.0,10,Transferencia Bancaria,,1.5
+4017,20,sucursal sur,notebook enterprise,"$1,200.50",,Tarjeta Corporativa,01/05/2026,
+4018,10,Sucursal Oeste,servidor blade,-200.0,5000,efectivo,15-05-2026,0.1
+4019,10,SUCURSAL ESTE,Notebook Enterprise,-200.0,2,Tarjeta Corporativa,01/05/2026,0.15
+4020,10,SUCURSAL ESTE,,$ 15000.99,-5,Tarjeta Corporativa,15-05-2026,0.0
